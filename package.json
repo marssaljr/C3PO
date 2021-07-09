@@ -1,0 +1,19 @@
+{
+  "name": "c3po",
+  "version": "1.0.0",
+  "description": "Droid designado para interagir com criaturas orgânicas. Fluente em seis milhões de formas de comunicação.",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "author": "Marçal Junior",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {
+    "@types/node": "^16.0.2",
+    "dotenv": "^10.0.0",
+    "typescript": "^4.3.5"
+  }
+}
