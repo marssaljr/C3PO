@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod" alt="Gitpod Ready-to-Code"/> 
   </a> 
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/marssaljr/c3po.svg"> 
+  <img alt="License" src="https://img.shields.io/github/license/marssaljr/c3po.svg"> 
 </p> 
  
 <h4 align="center"> 
